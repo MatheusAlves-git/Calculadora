@@ -1,2 +1,2 @@
 # Calculadora
-Primeiro programa
+Primeiro programa com finalidade de estudo!
